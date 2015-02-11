@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>RestSharpApex</id>
+    <version>1.0</version>
+    <title>RestSharpApex</title>
+    <authors>Stefano Teodorani</authors>
+    <owners>Stefano Teodorani</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>RestSharp library compiled for .net framework 2.0</description>
+    <releaseNotes>https://github.com/Apex-net/RestSharpApex/releases</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>iorder icommerce ib igamma</tags>
+  </metadata>
+</package>
