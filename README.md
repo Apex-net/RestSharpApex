@@ -1,4 +1,4 @@
-# RestSharpApex .NET 2.0 Simple .NET REST Client
+# RestSharpApex 
 
 This repo is based on RestSharp for NET 2.0 fork.
 
