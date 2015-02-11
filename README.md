@@ -1,13 +1,9 @@
-# RestSharp .NET 2.0 Fork - Simple .NET REST Client
+# RestSharpApex .NET 2.0 Simple .NET REST Client
 
-This is a fork of RestSharp for ,NET 2.0.
+This repo is based on RestSharp for NET 2.0 fork.
 
 To get it to work correctly we have included System.Xml.Linq from Mono project, and LinqBridge.cs, 
 so you may run into conflicts should you have other .NET2 projects that have done the same
-
-### [Official Site/Blog][1] - [@RestSharp][2]  
-### Please use the [Google Group][3] for feature requests and troubleshooting usage.
-### License: Apache License 2.0  
 
 ### Features
 
@@ -68,6 +64,3 @@ var asyncHandle = client.ExecuteAsync<Person>(request, response => {
 asyncHandle.Abort();
 ```
  
-  [1]: http://restsharp.org
-  [2]: http://twitter.com/RestSharp
-  [3]: http://groups.google.com/group/RestSharp
